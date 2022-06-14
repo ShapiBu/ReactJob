@@ -1,0 +1,20 @@
+.pagination_div {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  padding: 30px 0px;
+}
+
+.filtration_div {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  padding: 30px 0px;
+  flex-direction: column;
+}
+
+.input_div{
+  padding: 20px 0px;
+}
